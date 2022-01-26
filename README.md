@@ -1,4 +1,5 @@
-### Hi there 👋
+### First Blog for tryout 🌐
+### For my real blog visit http://www.rajtalks.in/
 
 <!--
 **raj-aryan25/raj-aryan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
